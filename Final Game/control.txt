@@ -1,0 +1,19 @@
+Control Options
+
+[Bsic movements]:(With/Without yulu)
+Arrow keys Left: Move player left
+Arrow keys Right: Move player right
+Arrow keys Up: Move player up
+Arrow keys Down: Move player down
+
+[Collect coins/ Use Hospital or Food court or YULU facility]:
+[Enter] key
+
+[Purchasing gun]:(When sufficient coins aquired)
+[B] key
+
+[Use gun]:
+[X] key
+
+[Punch]:
+[SpaceBar] key
