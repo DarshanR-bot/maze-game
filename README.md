@@ -1,5 +1,5 @@
 # maze-game
-This is a two player competitive game where you complete to collect coins from different location to buy a gun to kill the opponent. You can use services like food courts and yulu. The lasrt man standing wins the game.
+This is a two player competitive game where you compete to collect coins from different location to buy a gun and kill the opponent. You can use services like food courts and yulu. The last man standing wins the game.
 
 # Instructions for pre-requisites(SDL2 and other required libraries):
 1. Install SDL2 using sudo apt-get install libsdl2-dev
